@@ -8,6 +8,8 @@
         Goad Prick Development Team
     </author>
     <content src="index.html"/>
+    <content src="container.html"/>
+    <content src="admin.html"/>
     <plugin name="cordova-plugin-whitelist"  />
     <access origin="*" browserOnly="true"  />
    
