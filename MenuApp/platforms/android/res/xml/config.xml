@@ -52,7 +52,8 @@
     <author href="http://goadprick.com/home">
         Goad Prick Development Team
     </author>
-    <content src="index.html" />
+    <content src="indes.html" />
+    <plugin name="cordova-plugin-whitelist"  />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
